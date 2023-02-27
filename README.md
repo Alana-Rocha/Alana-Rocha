@@ -6,3 +6,4 @@
 - 😄 Pronouns: Ela/dela
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alana-rocha&show_icons=true&theme=radical)
