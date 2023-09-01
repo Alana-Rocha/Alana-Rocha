@@ -1,11 +1,5 @@
 ### Welcome to my profile!
 
-- 🌱 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas.
-- 📩 Contate-me no e-mail: alanarodrigues.rocha1@gmail.com
-- 😄 Pronouns: Ela/dela
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alan4rocha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alana-rodrigues-rocha-4275051b2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22459377) 
 
