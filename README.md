@@ -1,3 +1,4 @@
+<div align="center">
 ### Welcome to my profile!
 
 ### 🌐 Socials:
@@ -35,7 +36,7 @@
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alana-rocha&layout=compact&theme=tokyonight">
   </div>
   <br>
-
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alana-Rocha&icon=0&color=0)](https://visitcount.itsvg.in)
