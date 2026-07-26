@@ -18,15 +18,6 @@
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) 
-
-<br/>
-
-### 📊 GitHub Stats:
-  <div><br>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=alana-rocha&theme=tokyonight&show_icons=true">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alana-rocha&layout=compact&theme=tokyonight">
-  </div>
-  <br>
 </div>
 
 ---
